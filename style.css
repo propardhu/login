@@ -1,0 +1,101 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+}
+body{
+      font-weight: lighter;
+      background-image: url('https://cssauthor.com/wp-content/uploads/2015/01/Lazeez-watercolor-textures-4K-UDH-backgrounds.jpg');
+    
+      background-attachment: fixed;
+      background-position: top;
+}
+.logo {
+      line-height: 40px;
+      position: fixed;
+      float: left;
+      margin: 16px 46px;
+      color: #fff;
+      font-weight: bold;
+      font-size: 36px;
+      letter-spacing: 2px;
+}
+
+nav {
+
+      width: 100%;
+      line-height: 60px;
+}
+
+nav ul {
+      line-height: 40px;
+      list-style: none;
+      background: black;
+      overflow: hidden;
+      color: #fff;
+      padding: 0;
+      text-align: right;
+      margin: 0;
+      padding-right: 40px;
+      transition: 1s;
+}
+
+
+
+nav ul li {
+      display: inline-block;
+      padding: 16px 20px;;
+}
+
+nav ul li a {
+      text-decoration: none;
+      color: #fff;
+      font-size: 16px;
+}
+.F{
+  color: white;
+  padding: 100px 25% 200px 25%;
+  background: url(https://ezmediart.com/static11/preview200/stock-video-night-city-lights-footage-3d-170090.jpg) no-repeat 50% 50%;
+
+}
+.B{
+  padding: 75px 25% 50px 25%;
+  background-color: #a6dcef;
+}
+.list-group-item{
+  background-color: #a6dcef;
+}
+.C{
+  color: white;
+  padding: 75px 20% 50px 20%;
+  background-color: #45046a;
+
+}
+.D{
+  padding: 75px 20% 50px 20%;
+}
+.simg{
+  width: 300px;
+  height:250px;
+  float: left;
+  margin-right: 10px;
+}
+.gimg{
+  width: 300px;
+  height:250px;
+  float: right;
+  margin-left: 20px;
+}
+.l{
+  background-color: white;
+}
+.E{
+  padding: 75px 20% 50px 20%;
+  background-color: #8FBC8F;
+}
+.G{
+  text-align:center;
+  width: 100%;
+  height: 200px;
+  padding: 100px 100px 100px 100px ;
+}
